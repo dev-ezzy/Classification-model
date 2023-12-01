@@ -106,7 +106,7 @@ There are several algorithms for classification problems but these are the ones 
 
 3. DecisionTreeClassifieer
 
-4.RandomForestClassifier
+4. RandomForestClassifier
 
 5. GradientBoosting
 
