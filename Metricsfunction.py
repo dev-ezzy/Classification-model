@@ -3,15 +3,13 @@ from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 from sklearn.metrics import precision_recall_curve, auc, classification_report
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-
 def metrics(y_true, y_pred):
     print(classification_report(y_true, y_pred))
-    print('---------------------------------------------------')
-    print(f'Precision score for this model is: {precision_score(y_true, y_pred, average= "micro")}')
-    print(f'Recall score for this model is: {recall_score(y_true, y_pred, average= "micro")}')
-    print(f'Accuracy score for this model is: {accuracy_score(y_true, y_pred, average = "micro")}')
-    print(f'F1 score for this model is: {f1_score(y_true, y_pred, average= "micro")}')
+    # print('---------------------------------------------------')
+    # print(f'Precision score for this model is: {precision_score(y_true, y_pred, average= "micro")}')
+    # print(f'Recall score for this model is: {recall_score(y_true, y_pred, average= "micro")}')
+    # print(f'Accuracy score for this model is: {accuracy_score(y_true, y_pred)}')
+    # print(f'F1 score for this model is: {f1_score(y_true, y_pred, average= "micro")}')
     # print('---------------------------------------------------')
     # precision, recall, thresholds = precision_recall_curve(y_true, y_pred)
     # auc_pr = auc(recall, precision)
