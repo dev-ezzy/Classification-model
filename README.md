@@ -55,6 +55,25 @@ There were a few outliers and I was able to sort that using the interquartile ra
 ### Our status_group(Target class)
 Our target group has three classes and below is their distribution
 ![Alt text](image-1.png)
-
+### Univariate exploratory analysis
+#### Region
+The following are the regions under study or from where our problem data was collected
+![Alt text](image-2.png)
+#### Water basins in Tanzania
+The water basins geographically located in Tanzania are nine in total. Lake Victoria is the largest in terms of body mass and Lake Rukwa holds the last position
+![Alt text](image-3.png)
+#### Management groups
+The management columns tells us about the people incharge of running the water wells located in Tanzania. Most water wells in Tanzania are managed by the Village Water Community(VWC). This makes a lot of sense sinse Tanzania is a communist country. School and trust hold the least share for the water well management.
+The abbreviations of the values are explained here;
+  1. VWC - Village Water Community 
+  2. WUG - Water User Group
+  3. WUA - Water User Association
+Both WUG and WUA are mainly involved in activities such as irrigation, maintaining water infrastructure, resolving issues related to water usage among other things
+![Alt text](image-4.png)
+#### Payment methods
+The means of payment for water in Tanzania has seven unique modes of payment. Most of the water wells are free and no charges are needed to access water. This is what the plot says as we can see most common mode of payment is "never pay". Our other plots on management concur with this as we can see most water wells are managed by the village community
+![Alt text](image-5.png)
+#### Water quality
+In terms of water quality, Tanzania is blessed with soft water. Soft water generally contains low concentrations of minerals like calcium and magnesium, leading to fewer issues related to limescale buildup in pipes and appliances. In Tanzania, having soft water can contribute to reduced instances of scale accumulation in plumbing systems and appliances, potentially minimizing maintenance and extending the lifespan of water-related infrastructure. 
 
 
