@@ -112,7 +112,15 @@ There are several algorithms for classification problems but these are the ones 
 
 6. XGBoost classifier
 ### Model Evaluation and selection
-For the models build, I used the followwing metrics to evaluate to determine which one was working or performing well without underfitting or overfitting; accuracy score, precision, and recall. The best performing model was 
+For the models build, I used the followwing metrics to evaluate to determine which one was working or performing well without underfitting or overfitting; accuracy score, precision, and recall.
+
+
+    1) Accuracy- it measures the total number of predictors a model gets right 
+    2) Recall- this metric measures what percentage of the classes we are interested in were captured by the model.
+    3) Precision- measures how precise the predictions are. It answers the question out of all the times the model said a pump is defective, how many times did the pump in question actually defective
+
+
+ In general XGBoost was the best performing model with a accuracy score of 70%. This model was able to do well on all the train, validate and test sets of data meaning it would perform better if given unseen data. It also had the highest number of True positives(where it predicted a model wa functional and in it got it right)
 ### Limitations
 There were a few challenges between the process and are as follows'
 1. Low computational power to build the models and this affected testing and evaluating process as the process of building took so long
@@ -121,7 +129,16 @@ There were a few challenges between the process and are as follows'
 
 3. There was an issue with class imbalance in the target group and had to employ techniques like weights and synthetic to curb the problem
 ### Conclusion
+In conclusion, predicting the functionality of water pumps in Tanzania presents a pivotal opportunity to ensure sustainable access to clean water for communities. Leveraging predictive models allows proactive maintenance interventions, optimizing resource allocation, and minimizing downtime. By harnessing historical data encompassing pump functionality, geographical attributes, and maintenance records, these models enable stakeholders to anticipate potential failures, prioritize repairs, and sustain reliable water access across Tanzania. This predictive capability, coupled with community engagement and qualitative insights, paves the way for a holistic approach towards efficient water infrastructure management, fostering a more resilient and inclusive water supply system for Tanzanian communities.
 ### Recommendations
+1. Investment in Maintenance: Prioritize proactive maintenance based on model predictions. Allocate resources to address potential pump failures or those requiring repair, reducing downtime and ensuring consistent water supply.
+
+2.Regular Data Updates: Ensure continuous data collection and updates to maintain model accuracy. 
+
+3. Community Involvement: Foster community engagement to gather qualitative insights, user feedback, and local perspectives.
+
+4. Investment in Technology: Explore the integration of IoT sensors or remote monitoring technologies to gather real-time data on pump functionality. This technology can enhance predictive capabilities and facilitate proactive maintenance strategies.
+
 ### Next step
 1. Deploy our model into use to see how it will perform in the business world.
 
