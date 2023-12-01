@@ -1,19 +1,14 @@
 ## TITLE: TANZANIA WATER WELL PUMP STATUS PREDICTION
 ### OVERVIEW
 In Tanzania, the history of water supply has been a dynamic interplay of geographical, social, and economic factors. Initially blessed with abundant water resources, the country encountered challenges in distributing water efficiently. To address this, a proactive initiative has emerged. By analyzing historical data on pump functionality, geography, maintenance, and local demographics, this project aims to predict potential pump issues. Its goal is to create a scalable predictive tool aiding decision-makers. This tool not only optimizes resource allocation and maintenance but also engages communities. Through partnerships and qualitative data integration, it seeks to blend data-driven insights with community perspectives. Ultimately, this holistic approach aims to improve water infrastructure management sustainably while fostering community empowerment in Tanzania.
-#
+
 In Tanzania, water supply history intertwines geography, society, and economics. Despite abundant resources, efficient distribution posed challenges. Addressing this, a project analyzes pump data to predict issues, aiding decision-makers in resource allocation and maintenance. Beyond predictive analytics, it prioritizes community engagement, integrating qualitative data for a holistic, participatory approach to sustainable water infrastructure management.
 ## Challenges
 In a developing country like Tanzania, ensuring clean and accessible piped water faces numerous challenges. Some of these challenges include:
-#
 1.`Infrastructure Deficiency`: Many areas lack the necessary infrastructure for piped water systems. Remote or rural areas might not have pipelines or water treatment facilities, making it difficult to distribute clean water to these regions.
-#
 2.`Limited Access to Technology`: Developing countries may face limitations in accessing advanced technology for water treatment and distribution.
-#
 3.`Financial Constraints`: Funding constraints often limit the government's ability to invest in water infrastructure and maintenance.
-#
 4.`Population Growth`: Rapid population growth strains existing water resources and infrastructure. As urbanization increases, the demand for water rises, putting pressure on already limited water sources and distribution systems.
-#
 5 `Poor Maintenance`: Existing water infrastructure might suffer from poor maintenance due to a lack of resources or skilled personnel.
 ## Proposed solutions
 1.Build a predictive machine learning model that predicts whether a pump is functional , not functional or functioning but needs repair in orde to reduce water shortage due to failure of pumps
