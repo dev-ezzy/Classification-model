@@ -12,11 +12,8 @@ In a developing country like Tanzania, ensuring clean and accessible piped water
 5 `Poor Maintenance`: Existing water infrastructure might suffer from poor maintenance due to a lack of resources or skilled personnel.
 ## Proposed solutions
 1.Build a predictive machine learning model that predicts whether a pump is functional , not functional or functioning but needs repair in orde to reduce water shortage due to failure of pumps
-#
 2.Identify features or properties that lead to these water related problems and adress them
-#
 3.Identify regions that suffer most from these challenges so we can have a map or ways on how to improve their status.
-#
 4.Investigate whether the infrastructure available is enough to meet the people's need 
 ### PROBLEM STATEMENT
 The provision of clean and sustainable water access remains a critical challenge in Tanzania, with a vast network of water pumps serving communities across the country. However, the operational status of these pumps fluctuates, leading to intermittent water supply and hindering communities' access to safe drinking water. This project addresses the pressing need to develop a robust machine learning classification model capable of accurately predicting the operational status of water pumps in Tanzania.
