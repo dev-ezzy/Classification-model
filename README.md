@@ -93,4 +93,38 @@ Soft water is the most used water in Tanzania as we can see it has the highest c
 The neverpay water wells have the highest number of non functional pumps which can indicate lack of funds to repair the broken pumps in the region.
 ![Alt text](image-10.png)
 
+## MODELLING
+The purpose of this notebook is to create various models and try and determine which one works best for the project task. As well as trying various models, I will also experiment with different features and perform feature engineering to try and get the best predictors. As I go through this process I will try and explore the data further and continue with EDA while in the process since it is an iterative process
+In this chapter I am going to build machine learning models to help us classify whether pumps in Tanzania are function, not function or functioning and needs repair. This is a ternary problem meaning we have three target classes
+### TRANSFORMING DATA SETS AND SCALING
+I transfromed categorical values into numerical values using the onehotencode technique so our models could train on it. Since classifiers only works with O'sand 1's I scaled the numeric columns so they could fall within the same scale(0, 1)
+### Selecting a model
+There are several algorithms for classification problems but these are the ones I used in my model;
+1. LogisticRegression
+
+2. LogisticRegressionCV-cross validate
+
+3. DecisionTreeClassifieer
+
+4.RandomForestClassifier
+
+5. GradientBoosting
+
+6 XGBoost classifier
+### Model Evaluation and selection
+For the models build, I used the followwing metrics to evaluate to determine which one was working or performing well without underfitting or overfitting; accuracy score, precision, and recall. The best performing model was 
+### Limitations
+There were a few challenges between the process and are as follows'
+1. Low computational power to build the models and this affected testing and evaluating process as the process of building took so long
+
+2. A lot of dirty work to clean in the dataset. The dataset had outliers, missing values and outliers and this consumed almost all of my time on analysis.
+
+3. There was an issue with class imbalance in the target group and had to employ techniques like weights and synthetic to curb the problem
+### Conclusion
+### Recommendations
+### Next step
+1. Deploy our model into use to see how it will perform in the business world.
+
+2. Improve on computational power in order to analyze data with ease
+
 
