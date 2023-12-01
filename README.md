@@ -75,5 +75,22 @@ The means of payment for water in Tanzania has seven unique modes of payment. Mo
 ![Alt text](image-5.png)
 #### Water quality
 In terms of water quality, Tanzania is blessed with soft water. Soft water generally contains low concentrations of minerals like calcium and magnesium, leading to fewer issues related to limescale buildup in pipes and appliances. In Tanzania, having soft water can contribute to reduced instances of scale accumulation in plumbing systems and appliances, potentially minimizing maintenance and extending the lifespan of water-related infrastructure. 
+### Multi-variate analysis
+#### Distribution of pumps in Tanzania
+ From the scatter plot we can say that the pumps status across the region is almost even. The functional class is the highest followed by the non functional class and the ones that function but need repair are significantly low. The white spaces can be accounted as large water bodies such as lakes within the region
+ ![Alt text](image-6.png)
+ #### Relationship betweeen Status group and region
+ Iringa region is the region with the most functioning pumps. Mbeya and Shinyanga regions are leading in pumps that are not functioning.
+Kigoma, Shinyanga and Kigoma also have highest number of pumps that need repair.
+![Alt text](image-7.png)
+#### Relationship betweeen Status group and management
+Village Water Community managed wells have the highest number of functioning, non function and functioning but needs repair. This can indicate that some communities are best at managing their well's infrastructure and some of them don't know how to manage their water well
+![Alt text](image-8.png)
+#### Relationship betweeen Status group and waterquality
+Soft water is the most used water in Tanzania as we can see it has the highest count of all three classes of the status group
+![Alt text](image-9.png)
+#### Relationship betweeen Status group and payment_type
+The neverpay water wells have the highest number of non functional pumps which can indicate lack of funds to repair the broken pumps in the region.
+![Alt text](image-10.png)
 
 
