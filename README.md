@@ -110,7 +110,7 @@ There are several algorithms for classification problems but these are the ones 
 
 5. GradientBoosting
 
-6 XGBoost classifier
+6. XGBoost classifier
 ### Model Evaluation and selection
 For the models build, I used the followwing metrics to evaluate to determine which one was working or performing well without underfitting or overfitting; accuracy score, precision, and recall. The best performing model was 
 ### Limitations
