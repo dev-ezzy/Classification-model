@@ -1,2 +1,4 @@
-# Classification-model
-An intermediate intense machine learning approach to predict binary and ternary classification problems using  the most efficient algorithms
+## TITLE: ### TANZANIA WATER WELL PUMP STATUS PREDICTION
+1397675_192837240900168_1782944166_o
+
+
