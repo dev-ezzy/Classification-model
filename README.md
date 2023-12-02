@@ -75,6 +75,7 @@ The means of payment for water in Tanzania has seven unique modes of payment. Mo
 ![Alt text](image-5.png)
 #### Water quality
 In terms of water quality, Tanzania is blessed with soft water. Soft water generally contains low concentrations of minerals like calcium and magnesium, leading to fewer issues related to limescale buildup in pipes and appliances. In Tanzania, having soft water can contribute to reduced instances of scale accumulation in plumbing systems and appliances, potentially minimizing maintenance and extending the lifespan of water-related infrastructure. 
+![Alt text](image-11.png)
 ### Multi-variate analysis
 #### Distribution of pumps in Tanzania
  From the scatter plot we can say that the pumps status across the region is almost even. The functional class is the highest followed by the non functional class and the ones that function but need repair are significantly low. The white spaces can be accounted as large water bodies such as lakes within the region
