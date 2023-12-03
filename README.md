@@ -5,6 +5,7 @@ In Tanzania, the history of water supply has been a dynamic interplay of geograp
 In Tanzania, water supply history intertwines geography, society, and economics. Despite abundant resources, efficient distribution posed challenges. Addressing this, a project analyzes pump data to predict issues, aiding decision-makers in resource allocation and maintenance. Beyond predictive analytics, it prioritizes community engagement, integrating qualitative data for a holistic, participatory approach to sustainable water infrastructure management.
 ## Challenges
 In a developing country like Tanzania, ensuring clean and accessible piped water faces numerous challenges. Some of these challenges include:
+
 1.`Infrastructure Deficiency`: Many areas lack the necessary infrastructure for piped water systems. Remote or rural areas might not have pipelines or water treatment facilities, making it difficult to distribute clean water to these regions.
 
 
